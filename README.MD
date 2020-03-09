@@ -10,10 +10,7 @@
 
 Simple login/logout Facebook screen to log to an app.
 
-![React Native logo](readme-img/screen-login.jpg)
-
-![React Native logo](readme-img/screen-loged-in.jpg)
-
+![React Native logo](readme-img/screen-login.jpg)![React Native logo](readme-img/screen-loged-in.jpg)
 
 ## How to use
 
